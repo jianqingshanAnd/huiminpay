@@ -1,0 +1,3 @@
+com\wzh\pay\PayApplication.class
+com\wzh\pay\pojo\AlipayBean.class
+com\wzh\pay\controller\AlipayController.class

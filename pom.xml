@@ -8,6 +8,7 @@
         <module>huiminpay-merchant-application</module>
         <module>huiminpay-merchant</module>
         <module>test-ali-sends</module>
+        <module>test-alipay</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
