@@ -15,6 +15,9 @@
         <module name="huiminpay-merchant-service" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="test-ali-pay" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
@@ -25,6 +28,7 @@
       <module name="huiminpay-merchant-application" options="-parameters" />
       <module name="huiminpay-merchant-service" options="-parameters" />
       <module name="sailing" options="-parameters" />
+      <module name="test-ali-pay" options="" />
       <module name="test-ali-sends" options="-parameters" />
     </option>
   </component>
