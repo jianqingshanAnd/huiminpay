@@ -1,0 +1,5 @@
+com\wzh\test\TsetApplication.class
+com\wzh\test\util\RandomUtil.class
+com\wzh\test\controller\MsmApiController.class
+com\wzh\test\service\MsmService.class
+com\wzh\test\service\MsmServiceImpl.class
